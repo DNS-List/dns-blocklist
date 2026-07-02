@@ -1,0 +1,11 @@
+# A collection of domains for the whitelist. 
+# These should be set manually in PiHole or use the list 
+
+127.0.0.1  localhost
+::1  localhost
+
+t.ly
+www.bit.ly
+bit.ly
+ow.ly
+tinyurl.com
