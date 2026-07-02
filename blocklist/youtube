@@ -1,0 +1,37 @@
+# Youtube Blocklist
+# blocking youtube adds and advertisement
+#
+
+127.0.0.1  localhost
+::1  localhost
+
+ggpht.com
+googlevideo.com
+m.youtube.com
+www.youtube-nocookie.com
+www.youtube.com
+youtu.be
+youtube.com
+youtube.googleapis.com
+youtubei.googleapis.com
+ytimg.com
+i.ytimg.com
+youtube-ui.l.google.com
+
+142.251.46.174
+142.251.46.238
+142.250.189.174
+142.251.214.142
+172.217.12.110
+142.250.189.206
+142.250.189.238
+142.250.191.78
+142.250.191.46
+172.217.164.110
+142.251.32.46
+142.251.46.206
+142.250.72.206
+2607:f8b0:4005:814::200e
+2607:f8b0:4005:80f::200e
+2607:f8b0:4005:810::200e
+2607:f8b0:4005:803::200e
